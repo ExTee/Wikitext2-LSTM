@@ -1,2 +1,2 @@
 # Wikitext2-LSTM
-LSTM for Wikitext-2 Corpus
+LSTM for Wikitext-2 Corpus using MXNet
